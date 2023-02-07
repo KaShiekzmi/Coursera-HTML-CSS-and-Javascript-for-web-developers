@@ -1,2 +1,2 @@
-# Coursera-test
-Coursera test repo
+# Coursera
+Coursera-HTML-CSS-and-Javascript-for-web-developers
