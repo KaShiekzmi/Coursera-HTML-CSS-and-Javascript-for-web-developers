@@ -5,3 +5,4 @@ Assessments for HTML, CSS, and Javascript for Web Developers by Kashif Abbas Kaz
 1. [Module 2](https://kashiekzmi.github.io/Coursera-HTML-CSS-and-Javascript-for-web-developers/Coursera%20Solutions/Assignment%202/index.html)
 2. [Module 3](https://kashiekzmi.github.io/Coursera-HTML-CSS-and-Javascript-for-web-developers/Coursera%20Solutions/Assignment%203/index.html)
 3. [Module 4](https://kashiekzmi.github.io/Coursera-HTML-CSS-and-Javascript-for-web-developers/Coursera%20Solutions/Assignment%204/index.html)
+4. [Module 5](https://kashiekzmi.github.io/Coursera-HTML-CSS-and-Javascript-for-web-developers/Coursera%20Solutions/Assignment%205/index.html)
